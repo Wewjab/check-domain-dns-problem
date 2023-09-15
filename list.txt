@@ -1,0 +1,5 @@
+domain.com
+example.com
+test.com
+
+Jangan Gunakan http/https didepan domain
