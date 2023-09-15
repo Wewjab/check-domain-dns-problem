@@ -2,9 +2,9 @@
 Tool Simple Untuk Ngecek Domain Siap Di TO !
 
 # USAGE
-Edit Apikeymu didalam script !
+Edit Apikeymu didalam gass.py !
 
-cmd : python3 gass.py
+start ==> python3 gass.py
 
 # Thanks Allah
 Jangan lupa Star Kalo Menurutmu Berguna :)
