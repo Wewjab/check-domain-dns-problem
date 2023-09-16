@@ -1,6 +1,8 @@
 # Simple Checker Domain Dns Problem With api NINJAS DNS LOOKUP
 Tool Simple Untuk Ngecek Domain Siap Di TO !
 
+![alt text](https://github.com/Wewjab/check-domain-dns-problem/blob/main/preview.png)
+
 # USAGE
 
 Edit Apikeymu didalam gass.py !
